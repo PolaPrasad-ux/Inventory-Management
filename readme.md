@@ -21,7 +21,7 @@ This project demonstrates how to use *Redis* for caching API responses and datab
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/django-redis-caching-api.git
+git clone https://github.com/PolaPrasad-ux/Inventory-Management.git
 
 
 
@@ -44,3 +44,7 @@ JWT Authentication through Refresh and Access Tokens for the methods "GET,POST,D
 ##Logging
 
 Logger classes for debugging, info and errors.
+
+## Backend DB
+
+Postgre SQL
