@@ -1,7 +1,7 @@
 from rest_framework import serializers
-from .models import Inventory
+from .models import InventoryItems
 
 class ItemSerializer(serializers.ModelSerializer):
     class Meta:
-        model=Inventory
+        model=InventoryItems
         fields='__all__'
