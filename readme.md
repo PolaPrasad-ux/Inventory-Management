@@ -1,4 +1,4 @@
-# Django Redis Caching API
+# Django Inventory Management
 
 This project demonstrates how to use *Redis* for caching API responses and database queries in a Django application with Class-Based Views (CBVs).
 
